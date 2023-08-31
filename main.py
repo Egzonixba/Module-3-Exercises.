@@ -1,5 +1,5 @@
 # Task 1
-'''''
+
 SIZE_LIMIT = 42
 
 # Input from the fisherman
@@ -28,9 +28,9 @@ else:
     description = "Invalid cabin class."
 
 print("Cabin class", cabin_class, "is a", description)
-'''''
+
 # Task 3
-''''
+
 gender = input("Enter your biological gender (male/female): ")
 hemoglobin_value = float(input("Enter your hemoglobin value (g/l): "))
 
@@ -61,7 +61,7 @@ if feedback != "Invalid gender.":
     print("Your hemoglobin value is", feedback + ".")
 else:
     print(feedback)
-'''''
+
 #Task 4
 year = int(input("Enter a year: "))
 
